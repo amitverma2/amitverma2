@@ -6,8 +6,11 @@
 - I've given some talks on Timing and Synchronization
 
 https://wsts.atis.org/wp-content/uploads/sites/9/2021/03/wsts-2021-multi-profile.Verma_.pdf
+
 https://wsts.atis.org/presentation/validation-of-clock-recovery-systems-in-a-simulated-environment/
+
 https://wsts.atis.org/wp-content/uploads/sites/9/2018/10/4_03_Amit_Verma_RESILIENT-GNSS-PTP-GRANDMASTER.pdf
+
 
 <!---
 amitverma2/amitverma2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
